@@ -3,6 +3,7 @@ Software for the UW Hyperloop Controls Team. This code is for the Not-A-Boring c
 
 Team Members:
 - Devesh Sarda
+- Akilesh Konda
 
 ## Repo breakdown
 
