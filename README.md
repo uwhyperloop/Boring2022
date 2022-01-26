@@ -6,6 +6,7 @@ Team Members:
 - Akilesh Konda
 - Sidharth Daga
 - Calvin Le
+- Poojitha Arangam
 ## Repo breakdown
 
 The repository is broken down into folders based on the different subteams.
