@@ -7,6 +7,7 @@ Team Members:
 - Sidharth Daga
 - Calvin Le
 - Poojitha Arangam
+- Kevin Xu
 ## Repo breakdown
 
 The repository is broken down into folders based on the different subteams.
