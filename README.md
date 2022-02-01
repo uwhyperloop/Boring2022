@@ -8,6 +8,7 @@ Team Members:
 - Calvin Le
 - Poojitha Arangam
 - Kevin Xu
+- Anthony Chu
 ## Repo breakdown
 
 The repository is broken down into folders based on the different subteams.
